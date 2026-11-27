@@ -4,5 +4,5 @@ I focus on UI/web design, HTML, CSS, and Python, with a bit of JavaScript. My pr
 
 ### Tech
 
-`Python` `HTML5` `CSS3` `JavaScript` `Flask` `Git` `Linux` `SQLite`
+`Python` `HTML` `CSS` `JavaScript` `Flask` `Git` `Linux` `SQLite` `C++` 
 
